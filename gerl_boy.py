@@ -18,5 +18,7 @@ for i in range(10000):
     if older == 'girl' or younger == ' girl':
         either_girl += 1
 
-    print()
+print(old_gerl)
+print(both_gerl)
+print(either_girl)
 
